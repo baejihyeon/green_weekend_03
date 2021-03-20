@@ -13,6 +13,6 @@
 
 
   > 사이트 링크
- 마크다운 사용법 : [안내문서](https://github.com/baejihyeon/green_weekend_03/edit/main/README.md)
- HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/css/default.asp)
+ 마크다운 사용법 : [안내문서](https://github.com/baejihyeon/green_weekend_03/edit/main/README.md)<br/> 
+ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/css/default.asp)<br/>
  온라인 에디터 :[Codepen](https://codepen.io/trending)
