@@ -32,5 +32,5 @@
  클라이언트는 클라이언트 디바이스에서 실행되는 웹브라우저, 서버는 서버 디바이스에서 실행되는 서버 소프트웨어거 실제로 사용되는 것임
 
 ## HTML 
-> [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+> [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)   
 > [HTML Attribute](https://www.w3schools.com/html/html_attributes.asp)
