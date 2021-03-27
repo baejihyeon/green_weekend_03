@@ -91,5 +91,25 @@ href : 링크로 연결된 목적지 주소
 
 ul, ol 목록에서 중첩(nested) 형태로 사용할때 포함 관계를 주의
   - 포함하는 목록 항목에 작은 목록 전체가 포함됨
-  - 
+
+### 이미지 콘텐츠 요소 
+[HTML Images](https://www.w3schools.com/html/html_images.asp)
+
+1) src attribute :  가져올 이미지 파일 위치 정보
+2) alt (alternative) attribute : 대체 텍스트 
+
+### 멀티미디어 콘첸츠 요소 
+[HTML](https://www.w3schools.com/html/html5_video.asp)
+
+attribute 의 형태
+1)name = "value"
+2)name 만 사용
+
+video 태그의 attribute
+1) controls
+2) autoplay
+3) muted
+
+[HTML YouTube Videos](https://www.w3schools.com/html/html_youtube.asp)
+
 
