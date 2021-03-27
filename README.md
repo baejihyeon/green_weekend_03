@@ -34,3 +34,8 @@
 ## HTML 
 > [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)   
 > [HTML Attribute](https://www.w3schools.com/html/html_attributes.asp)
+> [HTML Element](https://www.w3schools.com/html/html_elements.asp) 
+
+## HTML 속성(Attributes)
+   1) HTML Element에 추가 정보를 제공
+   2) name = "value" 형태로 사용
