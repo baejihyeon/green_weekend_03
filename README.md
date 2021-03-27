@@ -102,7 +102,7 @@ ul, ol 목록에서 중첩(nested) 형태로 사용할때 포함 관계를 주�
 [HTML](https://www.w3schools.com/html/html5_video.asp)
 
 attribute 의 형태
-1)name = "value"
+1)name = "value"  
 2)name 만 사용
 
 video 태그의 attribute
