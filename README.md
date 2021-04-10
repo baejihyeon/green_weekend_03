@@ -1,9 +1,9 @@
 # 프론트엔드 기초 수업 
-> [Github저장소](https://github.com/ministori.yonsei)
+> [Github저장소](https://github.com/ministori.yonsei)    
 > [CodePen 저장소](https://codepen.io/ministori.yonsei)
 ## GITHUB 기초 개념 
 
-  > GITHUB 용어 
+  > GITHUB 용어 Cancel changes
 - stage : commit 할 대상을 선택.
 - commit : 수정한 내용의 스냅샷을 찍음.
 - push : GITHUB 서버에 업로드
