@@ -1,6 +1,6 @@
 # 프론트엔드 기초 수업 
 > [Github저장소](https://github.com/ministori-yonsei/green_weekend_03)    
-> [CodePen 저장소](https://codepen.io/ministori.yonsei)
+> [CodePen 저장소](https://codepen.io/ministori-yonsei)
 ## GITHUB 기초 개념 
 
   > GITHUB 용어 Cancel changes
