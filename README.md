@@ -1,5 +1,6 @@
 # 프론트엔드 기초 수업 
-> [Github저장소](https://github.com/ministori-yonsei/green_weekend_03)    
+> [Github저장소](
+https://github.com/ministori-yonsei/green_weekend_03)    
 > [CodePen 저장소](https://codepen.io/ministori-yonsei)
 ## GITHUB 기초 개념 
 
@@ -123,3 +124,28 @@ Youtube의 매개변수
 youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1&playlist=VIDEO_ID (& : ampersand)
 
 
+### 프론트엔드 기술(HTML, CSS, JS)의 라우저 지원 여부 체크
+
+- 프론트엔드 기술이 버전업 도리때마다 브라우저가 지원하는지 체크할 필요가 있음.
+- HTML5/5.1 , CSS3, ES2015 버전들의 기술은 항상 지원여부 체크가 필요함.
+- 브라우저 지원 여부
+  - 상위 호환성 : 새 버전 브라우저의 지원 여부 
+  - 하위 호환성 : 구 버전 브라우저의 지원 여부 
+- 일반적으로 브라우저 지원은 하위호환성 체크가 중요함
+
+- [CAN I USE](https://caniuse.com/)   
+
+> [HTML Block and Inline Elements](https://www.w3schools.com/html/html_blocks.asp)   
+
+- Non-semantic element(grouping 요소)
+  - div(division)
+  - span
+
+
+### Block/Inline Element 
+
+- block : 새 줄(줄바꿈)에서 표시
+- inline : 한 줄에 나란히 표시 
+- 포함관계
+  - block : block, inline, contents(text) 모두 포함할 수 있음
+  - inline : inline, contents(text)만 포함 가능 
